@@ -20,4 +20,5 @@ then save this project somewhere for re-use.
 .. code-block:: sh
 
    git clone https://github.com/larrygreen3/python-package-boilerplate.git python-package-boilerplate
+   
    ./python-package-boilerplate/create_new_package.sh PACKAGE_NAME
