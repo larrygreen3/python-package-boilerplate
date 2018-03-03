@@ -101,4 +101,4 @@ ENV/
 .mypy_cache/
 
 # pytests
-.ptest_cache/
+.ptest_cache
