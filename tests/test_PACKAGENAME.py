@@ -6,7 +6,7 @@ import pytest
 import sys
 
 # Add the parent folder to the path to import the package
-sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 
 from PACKAGENAME import *
 
